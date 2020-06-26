@@ -14,17 +14,19 @@
         <author>
             <name>Anuj Pandey</name>
         </author>
-        <link href="https://boltnews.github.io/a-new-begining.html"/>
-        <id>https://boltnews.github.io/a-new-begining.html</id>
+        <link href="https://boltnews.github.io/a-new-begining/"/>
+        <id>https://boltnews.github.io/a-new-begining/</id>
 
-        <updated>2020-06-26T11:49:26+05:30</updated>
+        <updated>2020-06-26T12:05:13+05:30</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://boltnews.github.io/media/posts/1/iuk3.jpg" alt="" />
                     Test Page.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://boltnews.github.io/media/posts/1/iuk3.jpg" alt="" />
                 <p>Test Page.</p>
             ]]>
         </content>

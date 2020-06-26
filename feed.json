@@ -10,18 +10,19 @@
     },
     "items": [
         {
-            "id": "https://boltnews.github.io/a-new-begining.html",
-            "url": "https://boltnews.github.io/a-new-begining.html",
+            "id": "https://boltnews.github.io/a-new-begining/",
+            "url": "https://boltnews.github.io/a-new-begining/",
             "title": "A new begining",
             "summary": "Test Page.",
             "content_html": "<p>Test Page.</p>",
+            "image": "https://boltnews.github.io/media/posts/1/iuk3.jpg",
             "author": {
                 "name": "Anuj Pandey"
             },
             "tags": [
             ],
-            "date_published": "2020-06-26T11:49:26+05:30",
-            "date_modified": "2020-06-26T11:49:26+05:30"
+            "date_published": "2020-06-26T12:05:13+05:30",
+            "date_modified": "2020-06-26T12:05:13+05:30"
         }
     ]
 }
