@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Bolt News",
+    "description": "",
+    "home_page_url": "https://boltnews.github.io",
+    "feed_url": "https://boltnews.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Anuj Pandey"
+    },
+    "items": [
+        {
+            "id": "https://boltnews.github.io/a-new-begining.html",
+            "url": "https://boltnews.github.io/a-new-begining.html",
+            "title": "A new begining",
+            "summary": "Test Page.",
+            "content_html": "<p>Test Page.</p>",
+            "author": {
+                "name": "Anuj Pandey"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-26T11:49:26+05:30",
+            "date_modified": "2020-06-26T11:49:26+05:30"
+        }
+    ]
+}
