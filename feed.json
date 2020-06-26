@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://boltnews.github.io/contact-us/",
+            "url": "https://boltnews.github.io/contact-us/",
+            "title": "Contact Us",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Anuj Pandey"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-26T15:14:11+05:30",
+            "date_modified": "2020-06-26T15:14:11+05:30"
+        },
+        {
             "id": "https://boltnews.github.io/a-new-beginning/",
             "url": "https://boltnews.github.io/a-new-beginning/",
             "title": "A new beginning",
@@ -23,8 +37,8 @@
             "tags": [
                    "Editorial"
             ],
-            "date_published": "2020-06-26T14:53:18+05:30",
-            "date_modified": "2020-06-26T14:53:18+05:30"
+            "date_published": "2020-06-26T15:14:11+05:30",
+            "date_modified": "2020-06-26T15:14:11+05:30"
         }
     ]
 }

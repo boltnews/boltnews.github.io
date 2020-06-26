@@ -10,6 +10,29 @@
     <id>https://boltnews.github.io</id>
 
     <entry>
+        <title>Contact Us</title>
+        <author>
+            <name>Anuj Pandey</name>
+        </author>
+        <link href="https://boltnews.github.io/contact-us/"/>
+        <id>https://boltnews.github.io/contact-us/</id>
+
+        <updated>2020-06-26T15:14:11+05:30</updated>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>A new beginning</title>
         <author>
             <name>Anuj Pandey</name>
@@ -18,7 +41,7 @@
         <id>https://boltnews.github.io/a-new-beginning/</id>
             <category term="Editorial"/>
 
-        <updated>2020-06-26T14:53:18+05:30</updated>
+        <updated>2020-06-26T15:14:11+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://boltnews.github.io/media/posts/1/iuk3.jpg" alt="" />
